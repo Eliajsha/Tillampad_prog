@@ -1,7 +1,7 @@
 /*
 * Name: clock and temp project
 * Author: Elias Svensson
-* Date: 2024-10-10
+* Date: 2024-11-12
 * Description: This project uses a ds3231 to measure time and displays the time to an 1306 oled display,
 * Further, it measures temprature with a analog temprature module and displays a mapped value to a 9g-servo-motor
 */
